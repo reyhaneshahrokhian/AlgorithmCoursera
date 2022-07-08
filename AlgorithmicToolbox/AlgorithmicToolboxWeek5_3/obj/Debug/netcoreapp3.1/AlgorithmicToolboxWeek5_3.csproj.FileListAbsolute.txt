@@ -1,0 +1,13 @@
+G:\c# DS\AlgorithmicToolboxWeek5_3\bin\Debug\netcoreapp3.1\AlgorithmicToolboxWeek5_3.exe
+G:\c# DS\AlgorithmicToolboxWeek5_3\bin\Debug\netcoreapp3.1\AlgorithmicToolboxWeek5_3.deps.json
+G:\c# DS\AlgorithmicToolboxWeek5_3\bin\Debug\netcoreapp3.1\AlgorithmicToolboxWeek5_3.runtimeconfig.json
+G:\c# DS\AlgorithmicToolboxWeek5_3\bin\Debug\netcoreapp3.1\AlgorithmicToolboxWeek5_3.runtimeconfig.dev.json
+G:\c# DS\AlgorithmicToolboxWeek5_3\bin\Debug\netcoreapp3.1\AlgorithmicToolboxWeek5_3.dll
+G:\c# DS\AlgorithmicToolboxWeek5_3\bin\Debug\netcoreapp3.1\AlgorithmicToolboxWeek5_3.pdb
+G:\c# DS\AlgorithmicToolboxWeek5_3\obj\Debug\netcoreapp3.1\AlgorithmicToolboxWeek5_3.csprojAssemblyReference.cache
+G:\c# DS\AlgorithmicToolboxWeek5_3\obj\Debug\netcoreapp3.1\AlgorithmicToolboxWeek5_3.AssemblyInfoInputs.cache
+G:\c# DS\AlgorithmicToolboxWeek5_3\obj\Debug\netcoreapp3.1\AlgorithmicToolboxWeek5_3.AssemblyInfo.cs
+G:\c# DS\AlgorithmicToolboxWeek5_3\obj\Debug\netcoreapp3.1\AlgorithmicToolboxWeek5_3.csproj.CoreCompileInputs.cache
+G:\c# DS\AlgorithmicToolboxWeek5_3\obj\Debug\netcoreapp3.1\AlgorithmicToolboxWeek5_3.dll
+G:\c# DS\AlgorithmicToolboxWeek5_3\obj\Debug\netcoreapp3.1\AlgorithmicToolboxWeek5_3.pdb
+G:\c# DS\AlgorithmicToolboxWeek5_3\obj\Debug\netcoreapp3.1\AlgorithmicToolboxWeek5_3.genruntimeconfig.cache

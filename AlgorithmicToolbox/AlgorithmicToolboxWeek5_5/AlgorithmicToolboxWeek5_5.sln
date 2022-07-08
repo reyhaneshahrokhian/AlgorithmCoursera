@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorithmicToolboxWeek5_5", "AlgorithmicToolboxWeek5_5.csproj", "{1535A3DD-4D8F-456E-B753-6005519B1BBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1535A3DD-4D8F-456E-B753-6005519B1BBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1535A3DD-4D8F-456E-B753-6005519B1BBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1535A3DD-4D8F-456E-B753-6005519B1BBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1535A3DD-4D8F-456E-B753-6005519B1BBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BCEE0C5-FF7F-45E7-922E-896FABC65B1C}
+	EndGlobalSection
+EndGlobal
