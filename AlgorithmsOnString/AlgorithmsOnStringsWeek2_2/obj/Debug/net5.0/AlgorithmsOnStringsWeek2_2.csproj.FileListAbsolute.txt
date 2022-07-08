@@ -1,0 +1,16 @@
+G:\c# AD\AlgorithmsOnStringsWeek2_2\bin\Debug\net5.0\AlgorithmsOnStringsWeek2_2.exe
+G:\c# AD\AlgorithmsOnStringsWeek2_2\bin\Debug\net5.0\AlgorithmsOnStringsWeek2_2.deps.json
+G:\c# AD\AlgorithmsOnStringsWeek2_2\bin\Debug\net5.0\AlgorithmsOnStringsWeek2_2.runtimeconfig.json
+G:\c# AD\AlgorithmsOnStringsWeek2_2\bin\Debug\net5.0\AlgorithmsOnStringsWeek2_2.runtimeconfig.dev.json
+G:\c# AD\AlgorithmsOnStringsWeek2_2\bin\Debug\net5.0\AlgorithmsOnStringsWeek2_2.dll
+G:\c# AD\AlgorithmsOnStringsWeek2_2\bin\Debug\net5.0\ref\AlgorithmsOnStringsWeek2_2.dll
+G:\c# AD\AlgorithmsOnStringsWeek2_2\bin\Debug\net5.0\AlgorithmsOnStringsWeek2_2.pdb
+G:\c# AD\AlgorithmsOnStringsWeek2_2\obj\Debug\net5.0\AlgorithmsOnStringsWeek2_2.csproj.AssemblyReference.cache
+G:\c# AD\AlgorithmsOnStringsWeek2_2\obj\Debug\net5.0\AlgorithmsOnStringsWeek2_2.GeneratedMSBuildEditorConfig.editorconfig
+G:\c# AD\AlgorithmsOnStringsWeek2_2\obj\Debug\net5.0\AlgorithmsOnStringsWeek2_2.AssemblyInfoInputs.cache
+G:\c# AD\AlgorithmsOnStringsWeek2_2\obj\Debug\net5.0\AlgorithmsOnStringsWeek2_2.AssemblyInfo.cs
+G:\c# AD\AlgorithmsOnStringsWeek2_2\obj\Debug\net5.0\AlgorithmsOnStringsWeek2_2.csproj.CoreCompileInputs.cache
+G:\c# AD\AlgorithmsOnStringsWeek2_2\obj\Debug\net5.0\AlgorithmsOnStringsWeek2_2.dll
+G:\c# AD\AlgorithmsOnStringsWeek2_2\obj\Debug\net5.0\ref\AlgorithmsOnStringsWeek2_2.dll
+G:\c# AD\AlgorithmsOnStringsWeek2_2\obj\Debug\net5.0\AlgorithmsOnStringsWeek2_2.pdb
+G:\c# AD\AlgorithmsOnStringsWeek2_2\obj\Debug\net5.0\AlgorithmsOnStringsWeek2_2.genruntimeconfig.cache
