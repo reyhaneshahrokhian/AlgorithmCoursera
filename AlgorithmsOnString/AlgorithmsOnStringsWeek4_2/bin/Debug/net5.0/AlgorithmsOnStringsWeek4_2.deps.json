@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AlgorithmsOnStringsWeek4_2/1.0.0": {
+        "runtime": {
+          "AlgorithmsOnStringsWeek4_2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AlgorithmsOnStringsWeek4_2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
