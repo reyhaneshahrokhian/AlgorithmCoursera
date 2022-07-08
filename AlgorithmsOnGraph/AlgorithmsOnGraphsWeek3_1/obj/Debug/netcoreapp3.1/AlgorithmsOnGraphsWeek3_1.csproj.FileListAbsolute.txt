@@ -1,0 +1,13 @@
+G:\c# AD\AlgorithmsOnGraphsWeek3_1\bin\Debug\netcoreapp3.1\AlgorithmsOnGraphsWeek3_1.exe
+G:\c# AD\AlgorithmsOnGraphsWeek3_1\bin\Debug\netcoreapp3.1\AlgorithmsOnGraphsWeek3_1.deps.json
+G:\c# AD\AlgorithmsOnGraphsWeek3_1\bin\Debug\netcoreapp3.1\AlgorithmsOnGraphsWeek3_1.runtimeconfig.json
+G:\c# AD\AlgorithmsOnGraphsWeek3_1\bin\Debug\netcoreapp3.1\AlgorithmsOnGraphsWeek3_1.runtimeconfig.dev.json
+G:\c# AD\AlgorithmsOnGraphsWeek3_1\bin\Debug\netcoreapp3.1\AlgorithmsOnGraphsWeek3_1.dll
+G:\c# AD\AlgorithmsOnGraphsWeek3_1\bin\Debug\netcoreapp3.1\AlgorithmsOnGraphsWeek3_1.pdb
+G:\c# AD\AlgorithmsOnGraphsWeek3_1\obj\Debug\netcoreapp3.1\AlgorithmsOnGraphsWeek3_1.csprojAssemblyReference.cache
+G:\c# AD\AlgorithmsOnGraphsWeek3_1\obj\Debug\netcoreapp3.1\AlgorithmsOnGraphsWeek3_1.AssemblyInfoInputs.cache
+G:\c# AD\AlgorithmsOnGraphsWeek3_1\obj\Debug\netcoreapp3.1\AlgorithmsOnGraphsWeek3_1.AssemblyInfo.cs
+G:\c# AD\AlgorithmsOnGraphsWeek3_1\obj\Debug\netcoreapp3.1\AlgorithmsOnGraphsWeek3_1.csproj.CoreCompileInputs.cache
+G:\c# AD\AlgorithmsOnGraphsWeek3_1\obj\Debug\netcoreapp3.1\AlgorithmsOnGraphsWeek3_1.dll
+G:\c# AD\AlgorithmsOnGraphsWeek3_1\obj\Debug\netcoreapp3.1\AlgorithmsOnGraphsWeek3_1.pdb
+G:\c# AD\AlgorithmsOnGraphsWeek3_1\obj\Debug\netcoreapp3.1\AlgorithmsOnGraphsWeek3_1.genruntimeconfig.cache

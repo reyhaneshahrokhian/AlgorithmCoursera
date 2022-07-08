@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorithmsOnGraphsWeek3_1", "AlgorithmsOnGraphsWeek3_1.csproj", "{7144646E-89D4-41CE-981F-0156DF18820F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7144646E-89D4-41CE-981F-0156DF18820F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7144646E-89D4-41CE-981F-0156DF18820F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7144646E-89D4-41CE-981F-0156DF18820F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7144646E-89D4-41CE-981F-0156DF18820F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D9AA729-24A3-4E1D-A709-44A30DF980F0}
+	EndGlobalSection
+EndGlobal
