@@ -1,0 +1,16 @@
+G:\c# AD\AdvanceAlgorithmsWeek2_1\bin\Debug\net5.0\AdvanceAlgorithmsWeek2_1.exe
+G:\c# AD\AdvanceAlgorithmsWeek2_1\bin\Debug\net5.0\AdvanceAlgorithmsWeek2_1.deps.json
+G:\c# AD\AdvanceAlgorithmsWeek2_1\bin\Debug\net5.0\AdvanceAlgorithmsWeek2_1.runtimeconfig.json
+G:\c# AD\AdvanceAlgorithmsWeek2_1\bin\Debug\net5.0\AdvanceAlgorithmsWeek2_1.runtimeconfig.dev.json
+G:\c# AD\AdvanceAlgorithmsWeek2_1\bin\Debug\net5.0\AdvanceAlgorithmsWeek2_1.dll
+G:\c# AD\AdvanceAlgorithmsWeek2_1\bin\Debug\net5.0\ref\AdvanceAlgorithmsWeek2_1.dll
+G:\c# AD\AdvanceAlgorithmsWeek2_1\bin\Debug\net5.0\AdvanceAlgorithmsWeek2_1.pdb
+G:\c# AD\AdvanceAlgorithmsWeek2_1\obj\Debug\net5.0\AdvanceAlgorithmsWeek2_1.csproj.AssemblyReference.cache
+G:\c# AD\AdvanceAlgorithmsWeek2_1\obj\Debug\net5.0\AdvanceAlgorithmsWeek2_1.GeneratedMSBuildEditorConfig.editorconfig
+G:\c# AD\AdvanceAlgorithmsWeek2_1\obj\Debug\net5.0\AdvanceAlgorithmsWeek2_1.AssemblyInfoInputs.cache
+G:\c# AD\AdvanceAlgorithmsWeek2_1\obj\Debug\net5.0\AdvanceAlgorithmsWeek2_1.AssemblyInfo.cs
+G:\c# AD\AdvanceAlgorithmsWeek2_1\obj\Debug\net5.0\AdvanceAlgorithmsWeek2_1.csproj.CoreCompileInputs.cache
+G:\c# AD\AdvanceAlgorithmsWeek2_1\obj\Debug\net5.0\AdvanceAlgorithmsWeek2_1.dll
+G:\c# AD\AdvanceAlgorithmsWeek2_1\obj\Debug\net5.0\ref\AdvanceAlgorithmsWeek2_1.dll
+G:\c# AD\AdvanceAlgorithmsWeek2_1\obj\Debug\net5.0\AdvanceAlgorithmsWeek2_1.pdb
+G:\c# AD\AdvanceAlgorithmsWeek2_1\obj\Debug\net5.0\AdvanceAlgorithmsWeek2_1.genruntimeconfig.cache
