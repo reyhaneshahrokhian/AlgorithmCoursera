@@ -1,0 +1,13 @@
+G:\c# DS\DataStrustureWeek6_4\bin\Debug\netcoreapp3.1\DataStrustureWeek6_4.exe
+G:\c# DS\DataStrustureWeek6_4\bin\Debug\netcoreapp3.1\DataStrustureWeek6_4.deps.json
+G:\c# DS\DataStrustureWeek6_4\bin\Debug\netcoreapp3.1\DataStrustureWeek6_4.runtimeconfig.json
+G:\c# DS\DataStrustureWeek6_4\bin\Debug\netcoreapp3.1\DataStrustureWeek6_4.runtimeconfig.dev.json
+G:\c# DS\DataStrustureWeek6_4\bin\Debug\netcoreapp3.1\DataStrustureWeek6_4.dll
+G:\c# DS\DataStrustureWeek6_4\bin\Debug\netcoreapp3.1\DataStrustureWeek6_4.pdb
+G:\c# DS\DataStrustureWeek6_4\obj\Debug\netcoreapp3.1\DataStrustureWeek6_4.csprojAssemblyReference.cache
+G:\c# DS\DataStrustureWeek6_4\obj\Debug\netcoreapp3.1\DataStrustureWeek6_4.AssemblyInfoInputs.cache
+G:\c# DS\DataStrustureWeek6_4\obj\Debug\netcoreapp3.1\DataStrustureWeek6_4.AssemblyInfo.cs
+G:\c# DS\DataStrustureWeek6_4\obj\Debug\netcoreapp3.1\DataStrustureWeek6_4.csproj.CoreCompileInputs.cache
+G:\c# DS\DataStrustureWeek6_4\obj\Debug\netcoreapp3.1\DataStrustureWeek6_4.dll
+G:\c# DS\DataStrustureWeek6_4\obj\Debug\netcoreapp3.1\DataStrustureWeek6_4.pdb
+G:\c# DS\DataStrustureWeek6_4\obj\Debug\netcoreapp3.1\DataStrustureWeek6_4.genruntimeconfig.cache
