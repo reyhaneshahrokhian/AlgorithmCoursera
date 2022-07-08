@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgoithmicToolboxWeek2_4", "AlgoithmicToolboxWeek2_4.csproj", "{6094470D-6F82-4588-9476-8A395D31CA0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgoithmicToolboxWeek2_5", "..\AlgoithmicToolboxWeek2_5\AlgoithmicToolboxWeek2_5.csproj", "{9209A2D8-DF52-41E5-BF26-B155C7CA594F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6094470D-6F82-4588-9476-8A395D31CA0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6094470D-6F82-4588-9476-8A395D31CA0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6094470D-6F82-4588-9476-8A395D31CA0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6094470D-6F82-4588-9476-8A395D31CA0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9209A2D8-DF52-41E5-BF26-B155C7CA594F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9209A2D8-DF52-41E5-BF26-B155C7CA594F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9209A2D8-DF52-41E5-BF26-B155C7CA594F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9209A2D8-DF52-41E5-BF26-B155C7CA594F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAF4B138-8987-4A58-9C11-2F03C41DB4FD}
+	EndGlobalSection
+EndGlobal

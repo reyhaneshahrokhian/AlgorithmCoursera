@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AlgorithmicToolboxWeek4_7/1.0.0": {
+        "runtime": {
+          "AlgorithmicToolboxWeek4_7.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AlgorithmicToolboxWeek4_7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
